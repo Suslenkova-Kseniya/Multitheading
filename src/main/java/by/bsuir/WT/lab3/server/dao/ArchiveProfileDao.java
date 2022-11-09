@@ -1,8 +1,5 @@
 package main.java.by.bsuir.WT.lab3.server.dao;
 
-import by.bsuir.vt3.beans.AccountType;
-import by.bsuir.vt3.beans.ArchiveProfile;
-
 import java.util.List;
 
 public interface ArchiveProfileDao {
