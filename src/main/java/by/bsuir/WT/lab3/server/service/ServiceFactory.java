@@ -1,6 +1,7 @@
 package main.java.by.bsuir.WT.lab3.server.service;
 
-import by.bsuir.vt3.server.service.impl.*;
+
+import main.java.by.bsuir.WT.lab3.server.service.impl.ServerServiceImpl;
 
 public final class ServiceFactory {
 	private static final ServiceFactory instance = new ServiceFactory();

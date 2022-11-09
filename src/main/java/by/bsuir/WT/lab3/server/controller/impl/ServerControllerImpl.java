@@ -1,5 +1,9 @@
 package main.java.by.bsuir.WT.lab3.server.controller.impl;
 
+import main.java.by.bsuir.WT.lab3.beans.*;
+import main.java.by.bsuir.WT.lab3.server.controller.*;
+import main.java.by.bsuir.WT.lab3.server.service.*;
+
 import java.util.List;
 import java.util.Random;
 

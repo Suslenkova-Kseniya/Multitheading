@@ -1,8 +1,8 @@
 package main.java.by.bsuir.WT.lab3.server.dao.impl;
-
-import by.bsuir.vt3.beans.*;
-import by.bsuir.vt3.server.dao.*;
 import jakarta.xml.bind.*;
+
+import main.java.by.bsuir.WT.lab3.beans.*;
+import main.java.by.bsuir.WT.lab3.server.dao.ArchiveProfileDao;
 
 import java.io.FileReader;
 import java.security.SecureRandom;

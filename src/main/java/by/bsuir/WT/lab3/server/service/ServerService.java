@@ -1,5 +1,7 @@
 package main.java.by.bsuir.WT.lab3.server.service;
 
+import main.java.by.bsuir.WT.lab3.beans.*;
+
 import java.util.List;
 
 public interface ServerService {

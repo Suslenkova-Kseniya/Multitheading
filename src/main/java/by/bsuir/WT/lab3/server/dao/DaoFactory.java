@@ -1,6 +1,6 @@
 package main.java.by.bsuir.WT.lab3.server.dao;
 
-import by.bsuir.vt3.server.dao.impl.*;
+import main.java.by.bsuir.WT.lab3.server.dao.impl.*;
 
 public final class DaoFactory {
 	private static final DaoFactory instance = new DaoFactory();

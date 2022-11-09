@@ -1,9 +1,8 @@
 package main.java.by.bsuir.WT.lab3.server.dao.impl;
 
-import by.bsuir.vt3.beans.StudentFile;
-import by.bsuir.vt3.beans.Students;
-import by.bsuir.vt3.server.dao.StudentFileDao;
 import jakarta.xml.bind.*;
+import main.java.by.bsuir.WT.lab3.beans.*;
+import main.java.by.bsuir.WT.lab3.server.dao.StudentFileDao;
 
 import java.io.FileReader;
 import java.util.List;

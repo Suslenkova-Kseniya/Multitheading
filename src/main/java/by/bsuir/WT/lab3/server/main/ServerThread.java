@@ -1,5 +1,8 @@
 package main.java.by.bsuir.WT.lab3.server.main;
 
+import main.java.by.bsuir.WT.lab3.beans.*;
+import main.java.by.bsuir.WT.lab3.server.controller.*;
+
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

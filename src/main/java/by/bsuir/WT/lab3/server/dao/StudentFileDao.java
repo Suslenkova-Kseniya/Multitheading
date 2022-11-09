@@ -1,6 +1,6 @@
 package main.java.by.bsuir.WT.lab3.server.dao;
 
-import by.bsuir.vt3.beans.StudentFile;
+import main.java.by.bsuir.WT.lab3.beans.StudentFile;
 
 import java.util.List;
 
