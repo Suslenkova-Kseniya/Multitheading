@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<id>0</id>
+		<name>Neolik</name>
+		<avgGrade>10</avgGrade>
+	</student>
+	<student>
+		<id>1</id>
+		<name>Pavlingo</name>
+		<avgGrade>6.89</avgGrade>
+	</student>
+	<student>
+		<id>2</id>
+		<name>Suppotr</name>
+		<avgGrade>9.7</avgGrade>
+	</student>
+	<student>
+		<id>3</id>
+		<name>Dolik</name>
+		<avgGrade>5.11</avgGrade>
+	</student>
+	<student>
+		<id>4</id>
+		<name>Swellow</name>
+		<avgGrade>6.21</avgGrade>
+	</student>
+	<student>
+		<id>5</id>
+		<name>Poling</name>
+		<avgGrade>8.99</avgGrade>
+	</student>
+	<student>
+		<id>6</id>
+		<name>Quoly</name>
+		<avgGrade>9.8</avgGrade>
+	</student>
+</students>
