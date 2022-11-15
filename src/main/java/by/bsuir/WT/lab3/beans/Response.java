@@ -2,7 +2,6 @@ package main.java.by.bsuir.WT.lab3.beans;
 
 import java.io.Serializable;
 
-
 @SuppressWarnings("serial")
 public class Response implements Serializable {
 	private ResponseType responseType;

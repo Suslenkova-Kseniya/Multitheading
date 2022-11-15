@@ -1,9 +1,6 @@
 package main.java.by.bsuir.WT.lab3.beans;
 
-import jakarta.xml.bind.annotation.XmlAccessType;
-import jakarta.xml.bind.annotation.XmlAccessorType;
-import jakarta.xml.bind.annotation.XmlElement;
-import jakarta.xml.bind.annotation.XmlRootElement;
+import jakarta.xml.bind.*;
 
 @XmlRootElement(name="profile")
 @XmlAccessorType(XmlAccessType.FIELD)

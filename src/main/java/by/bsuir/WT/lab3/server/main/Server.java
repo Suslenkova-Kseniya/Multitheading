@@ -13,7 +13,7 @@ public class Server extends Thread {
 	}
 	
 	public void startServer() {
-		this.setPort(6666);
+		this.setPort(7777);
 		try (ServerSocket serverSock = new ServerSocket(port)){
 			while(true) {
 				Socket socket = serverSock.accept();

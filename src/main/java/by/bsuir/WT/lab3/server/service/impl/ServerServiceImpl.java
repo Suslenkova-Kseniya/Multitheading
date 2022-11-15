@@ -1,8 +1,8 @@
 package main.java.by.bsuir.WT.lab3.server.service.impl;
 
-import by.bsuir.vt3.beans.*;
-import by.bsuir.vt3.server.dao.*;
-import by.bsuir.vt3.server.service.ServerService;
+import main.java.by.bsuir.WT.lab3.beans.*;
+import main.java.by.bsuir.WT.lab3.server.dao.*;
+import main.java.by.bsuir.WT.lab3.server.service.ServerService;
 
 import java.util.List;
 
